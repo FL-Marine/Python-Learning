@@ -4,3 +4,7 @@ I used the following articles to learn about loops in python.
 
 - How to Write a For Loop in Python -
 https://learnpython.com/blog/write-for-loop-python/
+
+- Lists and List Comprehension in Python - https://learnpython.com/blog/python-lists-list-comprehension-new-year-resolutions/
+
+- How to End Loops in Python - https://learnpython.com/blog/end-loop-python/
